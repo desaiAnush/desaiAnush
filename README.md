@@ -1,19 +1,19 @@
 # Hi, I'm Anush
 
-Rising sophomore studying **Applied Data Science** at Penn State. I build things that answer questions with actual data instead of guesswork — is this apartment overpriced, is this used car a good deal, where does my money actually go each month. Looking for **Summer 2027 data science / product internships**.
+Rising sophomore studying **Applied Data Science** at Penn State. I build stuff that answers real questions with actual data instead of guesswork. Is this apartment overpriced, is this used car a good deal, where does my money actually go each month. Looking for **Summer 2027 data science / product internships**.
 
-Full background and case-study-style writeups: **[desaianush.github.io](https://desaianush.github.io)**
+Full background and writeups: **[desaianush.github.io](https://desaianush.github.io)**
 
 ## Projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| [PSU Apartment Fairness Tool](https://github.com/desaiAnush/psu-apartment-fairness-tool) | Tells you if a State College apartment listing is priced fairly — trained on ~145 real listings I scraped and geocoded myself | Python · scikit-learn · XGBoost · Streamlit |
-| [Used Car Price Predictor](https://github.com/desaiAnush/used-car-price-predictor) | Predicts a fair price for a used car from its specs. Random Forest gets $641 MAE vs. $5,810 for a linear regression baseline on the same data | Python · pandas · scikit-learn |
-| [Budget Tracker](https://github.com/desaiAnush/budget-tracker) | Logs expenses and forecasts end-of-month spending with a simple regression model | Streamlit · SQLite · scikit-learn |
-| [Energy Price Tracker](https://github.com/desaiAnush/energy-price-tracker) | Pipeline that pulls hourly electricity prices and weather data into one dashboard | Python · EIA API · Open-Meteo · Streamlit |
+| [PSU Apartment Fairness Tool](https://github.com/desaiAnush/psu-apartment-fairness-tool) | Tells you if a State College apartment listing is priced fairly. Trained on ~145 real listings I scraped and geocoded myself. | Python, scikit learn, XGBoost, Streamlit |
+| [Used Car Price Predictor](https://github.com/desaiAnush/used-car-price-predictor) | Predicts a fair price for a used car from its specs. Random Forest gets $641 MAE vs $5,810 for a linear regression baseline on the same data. | Python, pandas, scikit learn |
+| [Budget Tracker](https://github.com/desaiAnush/budget-tracker) | Logs expenses and forecasts end of month spending with a simple regression model. | Streamlit, SQLite, scikit learn |
+| [Energy Price Tracker](https://github.com/desaiAnush/energy-price-tracker) | Pipeline that pulls hourly electricity prices and weather data into one dashboard. | Python, EIA API, Open-Meteo, Streamlit |
 
-Each repo's README has the real story — why I built it, what the data actually looked like, and what didn't work the first time.
+Each repo's README has the real story. Why I built it, what the data actually looked like, and what didn't work the first time.
 
 ## Tools I use
 
@@ -29,7 +29,7 @@ Each repo's README has the real story — why I built it, what the data actually
 
 ## Outside of class
 
-I co-run **Brush Bros**, a small painting business, during school breaks — quoting jobs, scheduling, and finishing work on tight deadlines. Before college I volunteered at UPMC Washington Hospital's ER, training pre-med students.
+I co-run **Brush Bros**, a small painting business, during school breaks. Quoting jobs, scheduling, finishing work on tight deadlines. Before college I volunteered at UPMC Washington Hospital's ER, training pre med students.
 
 ## Reach me
 
