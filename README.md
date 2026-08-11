@@ -1,6 +1,6 @@
 # Hi, I'm Anush
 
-Rising sophomore studying **Applied Data Science** at Penn State. I build stuff that answers real questions with actual data instead of guesswork. Is this apartment overpriced, is this used car a good deal, where does my money actually go each month. Looking for **Summer 2027 data science / product internships**.
+Rising sophomore studying **Applied Data Science** at Penn State. I build stuff that answers real questions to get real data experience with technical tools. Is this apartment overpriced, is this used car a good deal, where does my money actually go each month. Looking for **Summer 2027 data science / product internships**.
 
 Full background and writeups: **[desaianush.github.io](https://desaianush.github.io)**
 
