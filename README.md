@@ -9,7 +9,6 @@ Rising sophomore studying **Applied Data Science** at Penn State. I like to buil
 |---|---|---|
 | [PSU Apartment Fairness Tool](https://github.com/desaiAnush/psu-apartment-fairness-tool) | Tells you if a State College apartment listing is priced fairly. Trained on ~145 real listings I scraped and geocoded myself. | Python, scikit learn, XGBoost, Streamlit |
 | [Used Car Price Predictor](https://github.com/desaiAnush/used-car-price-predictor) | Predicts a fair price for a used car from its specs. Random Forest gets $641 MAE vs $5,810 for a linear regression baseline on the same data. | Python, pandas, scikit learn |
-| [Budget Tracker](https://github.com/desaiAnush/budget-tracker) | Logs expenses and forecasts end of month spending with a simple regression model. | Streamlit, SQLite, scikit learn |
 | [Energy Price Tracker](https://github.com/desaiAnush/energy-price-tracker) | Pipeline that pulls hourly electricity prices and weather data into one dashboard. | Python, EIA API, Open-Meteo, Streamlit |
 
 Each repo's README has the real story. Why I built it, what the data actually looked like, and what didn't work the first time.
