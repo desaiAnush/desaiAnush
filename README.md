@@ -1,8 +1,7 @@
 # Hi, I'm Anush
 
-Rising sophomore studying **Applied Data Science** at Penn State. I build stuff that answers real questions to get real data experience with technical tools. Is this apartment overpriced, is this used car a good deal, where does my money actually go each month. Looking for **Summer 2027 data science / product internships**.
+Rising sophomore studying **Applied Data Science** at Penn State. I like to build stuff that answers real questions to get real data experience with technical tools. Is this apartment overpriced, is this used car a good deal, where does my money actually go each month. Looking for **Summer 2027 data / product internships**.
 
-Full background and writeups: **[desaianush.github.io](https://desaianush.github.io)**
 
 ## Projects
 
@@ -28,11 +27,11 @@ Each repo's README has the real story. Why I built it, what the data actually lo
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ## Outside of class
-
-I co-run **Brush Bros**, a small painting business, during school breaks. Quoting jobs, scheduling, finishing work on tight deadlines. Before college I volunteered at UPMC Washington Hospital's ER, training pre med students.
+I enjoy doing things outside like biking, hiking, skateboarding and skiing.
+I co-run **Brush Bros**, a small painting business, during school breaks. 
+Before college I volunteered at UPMC Washington Hospital's ER, training pre med students and learning how to handle high pressure situations.
 
 ## Reach me
 
 - Email: [adesai5779@gmail.com](mailto:adesai5779@gmail.com)
 - LinkedIn: [anushdesai2029](https://www.linkedin.com/in/anushdesai2029)
-- Portfolio: [desaianush.github.io](https://desaianush.github.io)
