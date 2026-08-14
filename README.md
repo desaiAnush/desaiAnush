@@ -28,7 +28,7 @@ Each repo's README has the real story. Why I built it, what the data actually lo
 ## Outside of class
 I enjoy doing things outside like biking, hiking, skateboarding and skiing.
 I co-run **Brush Bros**, a small painting business, during school breaks. 
-Before college I volunteered at UPMC Washington Hospital's ER, training pre med students and learning how to handle high pressure situations.
+Before college I volunteered at UPMC Washington Hospital's ER, trained pre med students and learned how to handle high pressure situations.
 
 ## Reach me
 
