@@ -1,12 +1,13 @@
 # Hi, I'm Anush
 
-Rising sophomore studying **Applied Data Science** at Penn State. I like to build stuff that answers real questions to get real data experience with technical tools. Is this apartment overpriced, is this used car a good deal, where does my money actually go each month. Looking for **Summer 2027 data / product internships**.
+Sophomore studying **Applied Data Science** at Penn State. I like to build stuff that answers real questions to get real data experience with technical tools. How do I legally get rid of leftover job paint, is this apartment overpriced, is this used car a good deal, where does my money actually go each month. Looking for **Summer 2027 data / product internships**.
 
 
 ## Projects
 
 | Project | What it does | Stack |
 |---|---|---|
+| [CleanSite](https://github.com/desaiAnush/HazardWasteProject) | AI disposal guide for painters and small trade businesses in Centre County, PA. Describe leftover paint, solvent, or rags and get plain-English steps with the county or state source shown underneath. Says "I don't know" instead of guessing. Started from a real problem running Brush Bros, built for A-I 285. | Python, Groq LLM API, keyword retrieval, Streamlit |
 | [PSU Apartment Fairness Tool](https://github.com/desaiAnush/psu-apartment-fairness-tool) | Tells you if a State College apartment listing is priced fairly. Trained on ~145 real listings I scraped and geocoded myself. | Python, scikit learn, XGBoost, Streamlit |
 | [Used Car Price Predictor](https://github.com/desaiAnush/used-car-price-predictor) | Predicts a fair price for a used car from its specs. Random Forest gets $641 MAE vs $5,810 for a linear regression baseline on the same data. | Python, pandas, scikit learn |
 | [Energy Price Tracker](https://github.com/desaiAnush/energy-price-tracker) | Pipeline that pulls hourly electricity prices and weather data into one dashboard. | Python, EIA API, Open-Meteo, Streamlit |
